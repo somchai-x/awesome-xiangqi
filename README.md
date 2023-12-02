@@ -10,3 +10,6 @@ Curated list of Xiangqi learning resources
 
 ### Discovered Horse
 [Xiangqi Checkmate Strategies: Discovered Horse](https://www.youtube.com/shorts/pji0WSzB1Qw)
+
+#### Discovered Horse Puzzle
+[Puzzle 1](https://play.xiangqi.com/puzzle/qrbBvq/P)
