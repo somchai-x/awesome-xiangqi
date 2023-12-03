@@ -23,3 +23,6 @@ Curated list of Xiangqi learning resources
 
 #### Canon Skewer Puzzles
 [Puzzle 1](https://play.xiangqi.com/puzzle/Lxglrq/P)
+
+## Learn about Learnings
+- [https://www.youtube.com/watch?v=1f6N2UrCK6o](https://www.youtube.com/watch?v=1f6N2UrCK6o)
