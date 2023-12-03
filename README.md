@@ -25,4 +25,5 @@ Curated list of Xiangqi learning resources
 [Puzzle 1](https://play.xiangqi.com/puzzle/Lxglrq/P)
 
 ## Learn about Learnings
-- [https://www.youtube.com/watch?v=1f6N2UrCK6o](https://www.youtube.com/watch?v=1f6N2UrCK6o)
+- [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)
+- [Chunking: Learning Technique for Better Memory](https://www.youtube.com/watch?v=hydCdGLAh00)
