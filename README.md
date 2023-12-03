@@ -13,3 +13,10 @@ Curated list of Xiangqi learning resources
 
 #### Discovered Horse Puzzle
 [Puzzle 1](https://play.xiangqi.com/puzzle/qrbBvq/P)
+
+
+## Tactics
+
+### Canon Skewer
+
+[Xiangqi capturing tactic demonstration: Cannon skewer](https://www.youtube.com/shorts/qwo1oonqY_c)
