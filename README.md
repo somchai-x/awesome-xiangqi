@@ -12,12 +12,15 @@ Curated list of Xiangqi learning resources
 - [Xiangqi Checkmate Strategies: Discovered Horse](https://www.youtube.com/shorts/pji0WSzB1Qw)
 - [Puzzle 1](https://play.xiangqi.com/puzzle/qrbBvq/P)
 
-
 ## Tactics
 
 ### Canon Skewer
 - [Xiangqi capturing tactic demonstration: Cannon skewer](https://www.youtube.com/shorts/qwo1oonqY_c)
 - [Puzzle 1](https://play.xiangqi.com/puzzle/Lxglrq/P)
+
+## Princicles
+
+- [Weak side vs strong side](https://www.youtube.com/watch?v=StU57NGwfi4&t=195s)
 
 ## Learn about Learnings
 - [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o)
