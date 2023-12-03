@@ -21,5 +21,5 @@ Curated list of Xiangqi learning resources
 
 [Xiangqi capturing tactic demonstration: Cannon skewer](https://www.youtube.com/shorts/qwo1oonqY_c)
 
-### Canon Skewer Puzzles
+#### Canon Skewer Puzzles
 [Puzzle 1](https://play.xiangqi.com/puzzle/Lxglrq/P)
