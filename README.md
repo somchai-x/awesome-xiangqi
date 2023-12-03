@@ -11,7 +11,7 @@ Curated list of Xiangqi learning resources
 ### Discovered Horse
 [Xiangqi Checkmate Strategies: Discovered Horse](https://www.youtube.com/shorts/pji0WSzB1Qw)
 
-#### Discovered Horse Puzzle
+#### Discovered Horse Puzzles
 [Puzzle 1](https://play.xiangqi.com/puzzle/qrbBvq/P)
 
 
@@ -20,3 +20,6 @@ Curated list of Xiangqi learning resources
 ### Canon Skewer
 
 [Xiangqi capturing tactic demonstration: Cannon skewer](https://www.youtube.com/shorts/qwo1oonqY_c)
+
+### Canon Skewer Puzzles
+[Puzzle 1](https://play.xiangqi.com/puzzle/Lxglrq/P)
