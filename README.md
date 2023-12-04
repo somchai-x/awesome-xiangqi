@@ -21,6 +21,7 @@ Curated list of Xiangqi learning resources
 ## Princicles
 
 - [Weak side vs strong side](https://www.youtube.com/watch?v=StU57NGwfi4&t=195s)
+- [10 Most Important Xiangqi (Chinese Chess) Endgame Principles](https://www.xiangqi.com/articles/ten-most-important-chinese-chess-endgame-principles)
 
 ## Learn about Learnings
 - [Unleash the Power of Puzzle in Chinese Chess | Xiangqi Improvement](https://www.youtube.com/watch?v=bTNhr5PaJWM)
